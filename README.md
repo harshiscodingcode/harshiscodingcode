@@ -9,10 +9,10 @@
 ###  About Me
 <p align="center">
   🎓 B.Sc. in Computer Applications (Chhindwara University, 2021–2024)  
-  💻 Passionate about **Data Analysis, Problem-Solving & Business Insights**  
-  📊 Skilled in **Python • Pandas • NumPy • PostgreSQL • Power BI • Tableau • Advanced Excel**  
-  🌱 Currently exploring **ASP.NET** and building real-world projects  
-  ✨ Driven by a belief in **technology + creativity** to deliver impactful solutions
+  💻 Passionate about Data Analysis, Problem-Solving & Business Insights
+  📊 Skilled in **Python • Pandas • NumPy • PostgreSQL • Power BI • Tableau • Advanced Excel
+  🌱 Currently exploring ASP.NET and building real-world projects  
+  ✨ Driven by a belief in technology + creativity to deliver impactful solutions
 </p>
 
 ---
